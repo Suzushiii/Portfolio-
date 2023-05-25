@@ -1,0 +1,23 @@
+.apresentacao {
+    display: flex;
+    text-align: center;
+    padding: 4em 10em 4em 10em;
+    color: var(--cor-fonte-secundaria);
+    font-family: var(--fonte-principal);
+}
+
+.apresentacao__texto__titulo {
+    font-size: 3.3em;
+    color: var(--cor-fonte-principal);
+    padding-bottom: 1em ;
+    padding-top: 1em;
+}
+
+.apresentacao__texto__conteudo {
+    font-size: 1.3em;
+}
+
+.apresentacao__texto__conteudo-destaque {
+    text-decoration: none;
+    color: #65647C;
+}

@@ -1,0 +1,19 @@
+@import url(reset.css);
+@import url(/styles/header.css);
+@import url(/styles/main.css);
+@import url(/styles/main2.css);
+@import url('https://fonts.googleapis.com/css2?family=Playfair&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+:root {
+    --cor-fundo: #03001C;
+    --cor-secundaria: #301E67;
+    --cor-fonte-principal: #5B8FB9 ;
+    --cor-fonte-secundaria: #B6EADA;
+    --fonte-principal: 'Playfair', serif; 
+    --fonte-secundaria: 'Nunito Sans', sans-serif;
+}
+
+body {
+    background-color: var(--cor-fundo);
+}

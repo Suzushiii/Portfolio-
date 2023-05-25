@@ -1,0 +1,42 @@
+.apresentacao-certificado__secao {
+    display: flex;
+    margin: 3em 0 0 17em;
+}
+.apresentacao__titulo-certificado {
+    font-size: 3.3em;
+    color: var(--cor-fonte-principal);
+    padding: .5em 0 1em 13.5em;
+}
+
+.apresentacao__info-certificado{
+    font-size: 1em;
+    color: var(--cor-fonte-secundaria);
+    padding: 0 0 1em 47.5em;
+}
+
+.front-end {
+    margin-right: 10em;
+    color: var(--cor-fonte-principal);
+    font-family: var(--fonte-principal);
+    font-size: 1.3em;
+}
+
+.apresentacao__subtitulo-certificado{
+    font-size: 2em;
+}
+
+.apresentacao__texto-certificado {
+    padding: 1em 0 0 0;
+}
+
+.back-end{
+    margin-right: 10em;
+    color: var(--cor-fonte-principal);
+    font-family: var(--fonte-principal);
+    font-size: 1.3em;
+}
+
+.apresentacao-certificado__links {
+    text-decoration: none;
+    color: var(--cor-fonte-secundaria);
+}
