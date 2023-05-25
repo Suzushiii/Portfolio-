@@ -11,6 +11,7 @@
     color: var(--cor-fonte-principal);
     padding-bottom: 1em ;
     padding-top: 1em;
+    text-align: center;
 }
 
 .apresentacao__texto__conteudo {
@@ -21,3 +22,4 @@
     text-decoration: none;
     color: #65647C;
 }
+

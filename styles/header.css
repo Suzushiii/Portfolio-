@@ -10,8 +10,6 @@
 .container {
     display: flex;
     margin-left: 5em;
-    color: var(--cor-fonte-principal);
-    font-family: var(--fonte-secundaria);
     font-size: 1.5em;
     display: flex;
     padding: 10px;
@@ -48,4 +46,10 @@
 
 .cabecalho__redes__link {
     margin: 10px;
+}
+
+.biografia{
+    text-decoration: none;
+    color: var(--cor-fonte-principal);
+    font-family: var(--fonte-secundaria);
 }

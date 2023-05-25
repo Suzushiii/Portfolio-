@@ -1,0 +1,46 @@
+.apresentacao-contato {
+    font-family: var(-fonte-principal);
+    margin-left: 10em;
+}
+
+.apresentacao-contato__titulo {
+    color: var(--cor-fonte-principal);
+    font-size: 3.3em;
+    margin:0 0 3em .9em;
+}
+
+.apresentacao-contato__texto {
+    color: var(--cor-fonte-secundaria);
+    margin: 1em 0 0 0;
+    font-size: 1.3em;
+}
+
+.apresentacao-contato__imagem {
+    max-width:50px;
+    max-height:50px;
+
+}
+
+.apresentacao-contato__texto{
+    display:flex;
+    align-items: center;
+    margin: 2em;
+}
+
+.email {
+    margin: 0 .5em 0 0;
+}
+
+.instagram {
+    margin: 0 .8em 0 7px;
+}
+
+.telefone {
+    margin: 0 .3em 0 0;
+}
+
+.linkedin {
+    margin:0 .9em 8px 5px;
+}
+
+
