@@ -43,4 +43,11 @@
     margin:0 .9em 8px 5px;
 }
 
+.apresentacao-contato__imagem:hover {
+    outline-offset: 4px;
+    animation: shake .25s;
+}
+
+
+
 

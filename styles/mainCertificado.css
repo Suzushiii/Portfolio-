@@ -42,3 +42,7 @@
     text-decoration: none;
     color: var(--cor-fonte-secundaria);
 }
+
+.apresentacao-certificado__links:hover {
+    font-size: 1.2em;
+}
