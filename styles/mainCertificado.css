@@ -1,12 +1,13 @@
 .apresentacao-certificado__secao {
     display: flex;
-    margin: 3em 0 0 17em;
+    margin: 3em 0 0 12em;
 }
 .apresentacao__titulo-certificado {
     font-size: 3.3em;
     color: var(--cor-fonte-principal);
     text-align: center;
     padding-bottom: .7em;
+    padding-top: 2em;
 
 }
 
@@ -32,7 +33,7 @@
 }
 
 .back-end{
-    margin-right: 10em;
+    padding-left: 1em;
     color: var(--cor-fonte-principal);
     font-family: var(--fonte-principal);
     font-size: 1.3em;
@@ -44,5 +45,5 @@
 }
 
 .apresentacao-certificado__links:hover {
-    font-size: 1.2em;
+    font-size: 21px;
 }

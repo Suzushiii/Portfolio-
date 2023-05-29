@@ -7,6 +7,9 @@
     margin-bottom: 5em;
     align-items: center;
     text-align: center;
+    position: fixed;
+    width: 100%;
+    margin-top: 0;
 }
 
 .container {
@@ -26,6 +29,8 @@
 .container__texto {
     display: flex;
     align-items: center;
+    color: var(--cor-fonte-principal);
+    font-family: var(--cor-fonte-secundaria);
 }
 
 .cabecalho__links {
@@ -49,13 +54,6 @@
     animation: shake .05s;
 }
 
-/*.cabecalho__redes{
-    padding-right: 15px;
-}
-
-.cabecalho__redes__link {
-    margin: 10px;
-}*/
 
 .biografia{
     text-decoration: none;
@@ -116,4 +114,8 @@
 
 .icon__github:hover {
     background-color: #2ea44f;
+}
+
+.imagem {
+    padding: 10em;
 }
